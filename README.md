@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://www.linkedin.com/in/james-gist-89a07228a/
