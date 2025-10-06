@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jgist6215/osticket-prereqs/blob/main/README.md)
-- <b>Pc Optimizations
+- <b>Pc Optimizations (Windows 10)
   - [How to enable Ultimate Performance Mode] 
  
 - <b>Microsoft Azure</b>
