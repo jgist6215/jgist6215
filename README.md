@@ -2,14 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jgist6215/osticket-prereqs/blob/main/README.md)
+
 - <b>Pc Optimizations (Windows 10)
   - [How to enable Ultimate Performance Mode](https://github.com/jgist6215/Ultimate-Performance-Mode)
  
-- <b>Microsoft Azure</b>
-  - [Configuring Resource Groups with Azure](https://github.com/joshmadakoredmonds/configure-ad)
- 
+
 
 <h2>🤳Connect with me:</h2>
 
