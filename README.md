@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jgist6215/osticket-prereqs/blob/main/README.md)
-  - 
+  - [How to enable Ultimate Performance Mode] 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Resource Groups with Azure](https://github.com/joshmadakoredmonds/configure-ad)
