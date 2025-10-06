@@ -1,4 +1,3 @@
-<p align="center">
 <h1>Hi, I'm James, an <a href="https://www.linkedin.com/in/james-gist-89a07228a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -21,4 +20,3 @@
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
 [linkedin]: https://www.linkedin.com/in/james-gist-89a07228a/
-</p>
