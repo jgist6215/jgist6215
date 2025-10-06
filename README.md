@@ -1,3 +1,4 @@
+<p align="center">
 <h1>Hi, I'm James, an <a href="https://www.linkedin.com/in/james-gist-89a07228a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
